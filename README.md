@@ -12,3 +12,6 @@
 |     Random Forest    | 0.9816967472213725 |   47.341233s  |
 |  K-Nearest Neighbors | 0.8973182420719894 |   0.015580s   |
 | Gaussian Naive Bayes | 0.7175486897114306 |   6.198347s   |
+<br>
+📌 Dataset Link : <a href="https://www.kaggle.com/code/subhajeetdas/twitter-hate-speech-detection-different-model/input">Click Here</a><br>
+📌 Notebook Link : <a href="https://www.kaggle.com/code/subhajeetdas/twitter-hate-speech-detection-different-model/notebook">Click Here</a>
